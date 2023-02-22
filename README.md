@@ -1,2 +1,2 @@
 # Python-Bots
-Not very interesting, just a place to store some bots on different platforms written in Python.
+storage for basic python bots for a variety of platforms
